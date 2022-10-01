@@ -5,6 +5,12 @@ https://holidays.netlify.app/
 - Admin - admin@admin.com Admin123
 - User - user@user.com User123
 
+### Style guide and Prototype
+
+Landingpage is the style guide, from there you can chose the prototypes for desktop and mobile.
+https://xd.adobe.com/view/e54105e2-c37a-4ec4-bc23-d626092b231d-b012/
+
+
 # Project Exam 2
 
 There are two options with this Project Exam.
